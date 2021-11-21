@@ -4,4 +4,4 @@ b.What is your plan for the next 6 months? -> SO in the next 6 months i am plann
 
 c.How would you contribute back to the club? -> I feel i still am not so experienced to do some super great contibutions to the club. But i can ensure that i can contribute to the fullest with in my domain and help in the further proceeding of the club.
  
-d.Do you have any feedback for the selection process? -> I feel many challenges are not possible to be solved without knowing languages like python,c,c++,java,javascript . I think we first need to have challenges which will familiarize us with these languages.
+d.Do you have any feedback for the selection process? -> I feel many challenges are not possible to be solved without knowing languages like python,c,c++,java,javascript . I think we first need to have challenges which will familiarize us with these languages...
