@@ -12,7 +12,7 @@
 [Task-08](https://github.com/0Amruth0/amFoss-tasks/tree/main/task-08)|JSExplorer|Attempted
 [Task-09](https://github.com/0Amruth0/amFoss-tasks/tree/main/task-09)|Setup a Simple Personal Website|Completed
 [Task-10](https://github.com/0Amruth0/amFoss-tasks/tree/main/task-10)|CS50|Not Attempted 
-[Task-11](https://github.com/0Amruth0/amFoss-tasks/tree/main/task-11)|Poster Design|Completed!!
+[Task-11](https://github.com/0Amruth0/amFoss-tasks/tree/main/task-11)|Poster Design|Completed
 [Task-12](https://github.com/0Amruth0/amFoss-tasks/tree/main/task-12)|Make the Block|Not Attempted 
 [Task-13](https://github.com/0Amruth0/amFoss-tasks/tree/main/task-13)|Circuit Design|Not Attempted
 [Task-14](https://github.com/0Amruth0/amFoss-tasks/tree/main/task-14)|Bandit|Not Attempted
