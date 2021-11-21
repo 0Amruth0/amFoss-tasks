@@ -1,2 +1,1 @@
-i am working on the poster
-.
+i am working on the poster.
