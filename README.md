@@ -15,5 +15,5 @@
 [Task-11](https://github.com/0Amruth0/amFoss-tasks/tree/master/task-11)|Poster Design|Completed
 [Task-12](https://github.com/0Amruth0/amFoss-tasks/tree/master/task-12)|Make the Block|Not Attempted 
 [Task-13](https://github.com/0Amruth0/amFoss-tasks/tree/master/task-13)|Circuit Design|Not Attempted
-[Task-14](https://github.com/0Amruth0/amFoss-tasks/tree/mastertask-14)|Bandit|Not Attempted
+[Task-14](https://github.com/0Amruth0/amFoss-tasks/tree/master/task-14)|Bandit|Not Attempted
 [Task-15](https://github.com/0Amruth0/amFoss-tasks/tree/master/task-15)|Project Euler|Not Attempted
